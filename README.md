@@ -1,4 +1,4 @@
-CSS Samples From [Learn CSS Layout](http://learnlayout.com/)
+Learning Notes and Code Samples of CSS
 ================
 
 - no layout
@@ -23,7 +23,7 @@ CSS Samples From [Learn CSS Layout](http://learnlayout.com/)
 - about this site
 
 
-## Original Work
+## References
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Source Code of Learn CSS Layout](https://github.com/incompl/csslayoutsite)
 
