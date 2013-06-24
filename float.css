@@ -2,3 +2,11 @@ img {
   float: right;
   margin: 0 0 1em 1em;
 }
+
+nav {
+  float: left;
+  width: 200px;
+}
+section {
+  margin-left: 200px;
+}
