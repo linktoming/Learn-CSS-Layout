@@ -1,4 +1,4 @@
-Source Code Samples From [Learn CSS Layout](http://learnlayout.com/)
+CSS Samples From [Learn CSS Layout](http://learnlayout.com/)
 ================
 
 - no layout
