@@ -1,3 +1,4 @@
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/display */
 div{
 
   display: block;
@@ -15,4 +16,4 @@ li {
   display: inline-block;
 
 }
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/display */
+
