@@ -10,3 +10,13 @@ nav {
 section {
   margin-left: 200px;
 }
+
+.box {
+  float: left;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
+.after-box {
+  clear: left;
+}
