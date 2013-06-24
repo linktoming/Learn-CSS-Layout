@@ -1,0 +1,17 @@
+/* http://mediaqueri.es/ */
+/* https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries */
+/* http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/ */
+@media screen and (min-width:600px) {
+  nav {
+    float: left;
+    width: 25%;
+  }
+  section {
+    margin-left: 25%;
+  }
+}
+@media screen and (max-width:599px) {
+  nav li {
+    display: inline;
+  }
+}
