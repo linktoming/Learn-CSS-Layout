@@ -1,5 +1,3 @@
-This code repository and wiki are for my learning notes and code samples of CSS.
-
 ## Introductory Tutorials
 - [A Beginner’s Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
 - [An Advanced Guide to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
