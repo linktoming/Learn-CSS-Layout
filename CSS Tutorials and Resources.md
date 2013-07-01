@@ -26,3 +26,4 @@
 - [Welcome to CSS3 Shapes](http://www.css3shapes.com/)
 - [CSS Color Codes](http://www.quackit.com/css/css_color_codes.cfm)
 - [CSS Frameworks](http://learnlayout.com/frameworks.html)
+- [The Principles Of Cross-Browser CSS Coding](http://coding.smashingmagazine.com/2010/06/07/the-principles-of-cross-browser-css-coding/)
