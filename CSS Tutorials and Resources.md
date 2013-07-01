@@ -18,13 +18,14 @@
 ## CSS Style Guide
 - [CSS Style Guide from Github](https://github.com/styleguide/css)
 
-## Generator
+## Generator & Tools
 - [CSS Button Generator](http://css-button-generator.com/)
 - [Border Radius](http://border-radius.com/)
 - [CSS3 Click Chart](http://css3clickchart.com/)
-
-## Miscellaneous Links
+- [Color Code](http://www.colorhexa.com/)
 - [Welcome to CSS3 Shapes](http://www.css3shapes.com/)
 - [CSS Color Codes](http://www.quackit.com/css/css_color_codes.cfm)
+
+## Miscellaneous Links
 - [CSS Frameworks](http://learnlayout.com/frameworks.html)
 - [The Principles Of Cross-Browser CSS Coding](http://coding.smashingmagazine.com/2010/06/07/the-principles-of-cross-browser-css-coding/)
