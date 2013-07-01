@@ -1,6 +1,3 @@
-### Reference
-<http://www.impressivewebs.com/inherit-value-css/>
-
 > border-collapse  
 > border-spacing  
 > caption-side  
@@ -30,3 +27,10 @@
 > white-space  
 > widows  
 > word-spacing  
+
+> If you use inherit on any of the shorthand properties (like font or list-style), 
+> you can’t use it along with other values. You have to declare the entire value 
+> as “inherit” or else not use it at all.
+
+### Reference
+<http://www.impressivewebs.com/inherit-value-css/>
