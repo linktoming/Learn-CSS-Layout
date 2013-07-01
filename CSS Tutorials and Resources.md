@@ -21,6 +21,7 @@
 ## Generator
 - [CSS Button Generator](http://css-button-generator.com/)
 - [Border Radius](http://border-radius.com/)
+- [CSS3 Click Chart](http://css3clickchart.com/)
 
 ## Miscellaneous Links
 - [Welcome to CSS3 Shapes](http://www.css3shapes.com/)
